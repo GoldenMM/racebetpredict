@@ -1,0 +1,6 @@
+[submodule "rpscrape"]
+	path = rpscrape
+	url = https://github.com/4A47/rpscrape
+[submodule "liveodds"]
+	path = liveodds
+	url = https://github.com/4A47/liveodds
